@@ -1,1 +1,1 @@
-{"regressions": []}
+{"regressions": [["benchmark_optim_construction.BenchmarkOptimisationConstruction.time_cost(<class 'pybop.models.lithium_ion.echem.SPMe'>, 'Chen2020', <class 'pybop.optimisers.pints_optimisers.CMAES'>)", "graphs/branch-179-add-airspeed-velocity-for-automated-benchmarking/machine-SelfHostedRunner/numpy/pints/pybamm/python-3.12/scipy/benchmark_optim_construction.BenchmarkOptimisationConstruction.time_cost.json", {}, 1, 0.037244896637275815, 0.023513927008025348, [[null, 983, 0.023513927008025348, 0.037244896637275815]]]]}
