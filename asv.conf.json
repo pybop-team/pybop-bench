@@ -4,6 +4,6 @@
     "project_url": "https://github.com/pybop-team/pybop",
     "repo": "https://github.com/pybop-team/PyBOP.git",
     "default_benchmark_timeout": 180,
-    "branches": ["179-add-airspeed-velocity-for-automated-benchmarking"],
+    "branches": ["develop"],
     "environment_type": "virtualenv"
 }
