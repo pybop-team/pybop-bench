@@ -132,7 +132,7 @@
             [
                 "<class 'pybop.optimisers.scipy_optimisers.SciPyMinimize'>",
                 "<class 'pybop.optimisers.scipy_optimisers.SciPyDifferentialEvolution'>",
-                "<class 'pybop.optimisers.pints_optimisers.Adam'>",
+                "<class 'pybop.optimisers.pints_optimisers.AdamW'>",
                 "<class 'pybop.optimisers.pints_optimisers.CMAES'>",
                 "<class 'pybop.optimisers.pints_optimisers.GradientDescent'>",
                 "<class 'pybop.optimisers.pints_optimisers.IRPropMin'>",
@@ -170,7 +170,7 @@
             [
                 "<class 'pybop.optimisers.scipy_optimisers.SciPyMinimize'>",
                 "<class 'pybop.optimisers.scipy_optimisers.SciPyDifferentialEvolution'>",
-                "<class 'pybop.optimisers.pints_optimisers.Adam'>",
+                "<class 'pybop.optimisers.pints_optimisers.AdamW'>",
                 "<class 'pybop.optimisers.pints_optimisers.CMAES'>",
                 "<class 'pybop.optimisers.pints_optimisers.GradientDescent'>",
                 "<class 'pybop.optimisers.pints_optimisers.IRPropMin'>",
@@ -206,7 +206,7 @@
             [
                 "<class 'pybop.optimisers.scipy_optimisers.SciPyMinimize'>",
                 "<class 'pybop.optimisers.scipy_optimisers.SciPyDifferentialEvolution'>",
-                "<class 'pybop.optimisers.pints_optimisers.Adam'>",
+                "<class 'pybop.optimisers.pints_optimisers.AdamW'>",
                 "<class 'pybop.optimisers.pints_optimisers.CMAES'>",
                 "<class 'pybop.optimisers.pints_optimisers.GradientDescent'>",
                 "<class 'pybop.optimisers.pints_optimisers.IRPropMin'>",
@@ -238,7 +238,7 @@
             [
                 "<class 'pybop.optimisers.scipy_optimisers.SciPyMinimize'>",
                 "<class 'pybop.optimisers.scipy_optimisers.SciPyDifferentialEvolution'>",
-                "<class 'pybop.optimisers.pints_optimisers.Adam'>",
+                "<class 'pybop.optimisers.pints_optimisers.AdamW'>",
                 "<class 'pybop.optimisers.pints_optimisers.CMAES'>",
                 "<class 'pybop.optimisers.pints_optimisers.GradientDescent'>",
                 "<class 'pybop.optimisers.pints_optimisers.IRPropMin'>",
