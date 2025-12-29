@@ -1,1 +1,1 @@
-{"regressions": [["benchmark_parameterisation.BenchmarkParameterisation.time_parameterisation(<pybamm.models.full_battery_models.lithium_ion.spme.SPMe object>, 'Chen2020', <class 'pybop.optimisers.pints_optimisers.GradientDescent'>)", "graphs/branch-develop/machine-SelfHostedRunner/numpy/pints/pybamm/python-3.12/scipy/benchmark_parameterisation.BenchmarkParameterisation.time_parameterisation.json", {}, 13, 0.004482708321037617, 0.004223259504545818, [[4856, 4893, 0.004223259504545818, 0.004482708321037617]]]]}
+{"regressions": []}
